@@ -1,0 +1,76 @@
+﻿body
+{
+	background-image:url(https://i.ibb.co/wcSNhjX/speed-dials-community-for-web-ppt-backgrounds-powerpoint.jpg);
+	background-size: cover;
+	background-attachment:fixed;
+	
+}
+.contact
+{
+	position:fixed;
+	top:760px;
+	left:30px;
+
+}
+.insta
+{
+	position:fixed;
+	top:830px;
+	left:205px;
+}	
+.facebook
+{
+	position:fixed;
+	top:830px;
+	left:100px;
+}
+.welcome
+{
+	position:absolute;
+	top:-20px;
+	left:600px;
+	font-size:85pt;
+}
+.logo
+{
+	position: relative;
+	top:-30px;
+	left:1405px;
+}
+.aboutme
+{
+	font-size:50pt;
+	position:absolute;
+	top:140px;
+	left:41%;
+}
+.inside_aboutme
+{
+	font-size:20pt;
+	position:absolute;
+	top:240px;
+	left:550px;
+}
+.copyright
+{
+	font-size:11pt;
+	position:absolute;
+	top:1500px;
+	right:0px;
+	color:505050;
+}
+.skills
+{
+	font-size:50pt;
+	font-style:italic;
+	position:absolute;
+	top:800px;
+	left:46.2%;
+}
+.inside_skills
+{
+	font-size:20pt;
+	position:absolute;
+	top:950px;
+	left:550px;
+}
